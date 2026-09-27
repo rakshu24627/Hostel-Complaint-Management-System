@@ -1,0 +1,7 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Program data
+complaints.dat
